@@ -18,3 +18,7 @@ variable "region" {
 variable "subnet_number" {
   default = "01"
 }
+
+variable "cost_center" {
+  default = "NkosiG"
+}
